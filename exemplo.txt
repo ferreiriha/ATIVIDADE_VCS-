@@ -1,9 +1,53 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac efficitur velit, a tempus eros. Vivamus varius malesuada enim ac mattis. Suspendisse convallis porta consectetur. Suspendisse sit amet venenatis dolor. Nunc placerat enim quis quam bibendum, a sollicitudin est luctus. In eu diam a leo auctor finibus ut nec dolor. Morbi vel bibendum quam. Pellentesque euismod euismod turpis, quis commodo arcu laoreet et. In a libero et orci convallis porttitor ut a metus. Sed tempus nulla et magna consectetur, eu malesuada lectus ornare. Morbi nibh tortor, egestas et sagittis in, venenatis id nunc. Nulla rutrum elit ac dui consectetur rutrum. Cras euismod eleifend elementum. Suspendisse porta massa sit amet ante condimentum eleifend.
-
-Aliquam tempus volutpat tellus at ultricies. Pellentesque eget lacus sit amet ligula imperdiet convallis. Phasellus quis facilisis nisi. Etiam ultricies ullamcorper sem eget mattis. Integer a nisi tempor erat sagittis tincidunt in eget lacus. Aliquam vulputate iaculis nisi et pretium. Aenean in ipsum viverra, imperdiet mi ac, auctor felis. In fermentum quis leo ut molestie. Aenean fermentum diam non pulvinar tempus. Duis porta, ante molestie bibendum consequat, nulla elit fringilla tortor, vitae consequat ante elit in arcu. Mauris quis risus at sem elementum fringilla. Phasellus ornare odio sit amet diam volutpat, vel venenatis quam malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a turpis maximus, egestas arcu non, elementum diam. Curabitur euismod erat interdum nisi tempus ultricies. Proin id ante sagittis, vestibulum enim eu, dignissim arcu.
-
-Aliquam erat volutpat. Morbi ultricies nunc eros, ut bibendum enim sollicitudin a. Etiam tristique vestibulum lacinia. Donec ut lobortis lectus. Ut accumsan velit sed eros suscipit, a lobortis tortor luctus. Vestibulum consequat at felis eu mollis. Curabitur dignissim consectetur risus vitae rhoncus. Proin lobortis enim sit amet mauris ultrices, eget efficitur nisi placerat. Donec a porta libero. Proin eget tincidunt odio. Duis vel metus condimentum, tincidunt risus ac, mollis est. Nulla facilisi. Maecenas sit amet bibendum lectus. Sed sodales est a erat tincidunt, vel pharetra mi eleifend. Etiam orci erat, lobortis sed convallis vitae, elementum sagittis ipsum. Sed imperdiet est justo, bibendum molestie felis lacinia eu.
-
-Praesent molestie erat vitae fringilla pellentesque. In condimentum, elit quis tempor venenatis, nisl enim semper libero, sit amet accumsan turpis leo sed velit. Donec quam lacus, gravida at purus nec, gravida posuere turpis. Cras interdum consectetur scelerisque. Etiam fringilla nulla nec orci semper, non hendrerit leo dapibus. Aenean efficitur, massa dignissim consequat pretium, enim felis rutrum tellus, et feugiat tortor dui in elit. Mauris ac leo et massa faucibus ornare eu id sapien.
-
-Aenean vehicula mauris vel dapibus efficitur. Pellentesque cursus lobortis libero a mollis. In facilisis, nisi eu pellentesque convallis, neque dolor ornare lorem, a volutpat tellus elit vel velit. Proin pellentesque nulla a velit aliquam, eu ultricies mauris pellentesque. Curabitur pellentesque porttitor arcu eget consectetur. Donec nec mauris ultricies, aliquam justo sit amet, egestas libero. Fusce ut bibendum diam. Etiam pretium mi urna, ut porta mauris congue ut. Cras cursus dui velit, a laoreet eros ultricies nec. Etiam tincidunt nibh diam, id ultrices ex interdum quis. Duis ac aliquet nulla. Donec sapien nisl, tempor nec lorem tempus, bibendum consequat mi. Suspendisse mattis nulla vel convallis fringilla. Integer eget nibh molestie, tincidunt nisl vel, dignissim nulla. Nulla sagittis libero a augue rhoncus, eget imperdiet elit tempor.
+There once was a man who had three sons. The youngest of the three was despised, ridiculed and mistreated by everyone; Everyone called him by the name Zé Palerma.
+One fine day, the eldest son decided to cut firewood in the forest; Before leaving, his mother gave him an excellent egg fry and a bottle of wine so that he wouldn't be hungry and thirsty,
+Very satisfied, the young man entered the forest and came across a little dwarf who, after greeting him, said:
+- Would you like to give me a little piece of your fry and a sip of your wine? I'm so hungry and so thirsty!
+But the smart son replied:
+- If I give you the fry and the wine, there is nothing left for me; get out of my way!
+He left the little dwarf there and left without further ado. A little further on, he began to cut a branch, but it wasn't long before, missing the blow, he injured himself in the arm with the ax, having to return home to treat the wound. That was nothing more than a trick the little dwarf had played on him!
+Then the second son wanted to go to the forest; His mother also gave him a nice fried egg and a bottle of good wine. Penetrating into the forest, he found the little dwarf, who asked him for a piece of fry and a sip of wine. But this son also said with his natural common sense:
+- Whatever I give you, I will miss it; get the hell away, get out of my face.
+He left the little dwarf there and went forward. But the punishment didn't wait: as soon as he made a few blows on a tree, he injured his leg with the ax and had to be taken home.
+Then the youngest of the three asked them to let him go:
+- My father, let me go to the forest this time to cut firewood!
+- Your brothers have already been injured, - his father replied; - now you want to go, you don't know how to do anything.
+But Zé Palerma insisted so much that his father ended up saying:
+- Well, go! This way you will learn at your own expense.
+His mother gave him some bread baked on the coals and a bottle of sour beer. Penetrating into the forest, he also found the little dwarf, who greeted him and asked:
+- Give me a piece of your bread and a sip of your beer; I'm so hungry and so thirsty!
+Zé Palerma replied:
+- I only have bread baked on the coals and sour beer; If this pleases you, sit here and eat with me.
+They both sat on the floor. When Zé Palerma took the bread out of the bag, it had turned into a delicious cake and the beer into very fine wine. They ate and drank happily; Then the little dwarf said:
+- As you have an excellent heart and willingly share what you have, I, for my part, want you to be happy. Far ahead, there is an old tree; Tear it down and you will find something at its roots.
+So saying, he said goodbye and left.
+Zé Palerma cut down the tree; When she fell to the ground, he found among the roots a goose with feathers of pure gold. He picked him up and took him with him, going to spend the night in an inn not far away.
+The innkeeper had three daughters, who, seeing that goose, were curious to know what strange bird it was, and were crazy about possessing one of its feathers. The eldest thought: "I'll find a way to get the pity out of him."
+As soon as Zé Palerma was gone, the girl grabbed the goose by the wing, but her fingers were stuck to the goose. Then came the second daughter, who thought only of the golden feather; however, as soon as he touched his sister, she was also trapped. Finally the third arrived, with the same intention. The other two immediately shouted to him:
+- Don't come any closer, for God's sake!
+But she, who didn't know what was going on, thought: "Well, if they got involved in this, why can't I do the same!" She ran over and, as soon as she touched her sister, she too was trapped. So they had to spend the night stuck to the goose.
+The next morning, Zé Palerma took the goose under his arm and walked away, without bothering about the three girls, who had to follow him from one place to another, as he pleased. Arriving in the middle of the field, they found the priest who, seeing that strange procession, said:
+- Oh, shameless ones! Where have you ever seen such shamelessness? Run across the field after this boy! Do you think that's decent?
+So saying, he grabbed the hand of the youngest, in order to pull her to the side; but, as soon as he bumped into her, he was also trapped and forced to run along. Just then the sacristan passed by and saw the Priest holding the girl and running with them. Amazed by this, he shouted:
+- Hello, Father, where are you in such a hurry? Don't forget that we have another baptism to do today!
+He ran towards him, trying to grab him by the sleeve of his cassock, but he too was stuck.
+All five of them were going like that, running like fools one after the other, when two peasants appeared with hoes on their shoulders; the Priest appealed to them, asking them to free him and the sacristan from that, but as soon as the peasants grabbed the sacristan, they too were stuck together without being able to free themselves. Now there were seven running after Zé Palerma.
+Shortly afterwards, Zé Palerma arrived in a city where there was a king who ruled and whose daughter no one knew.whose daughter no one had ever been able to make laugh. The king, therefore, had decreed that he would only give her in marriage to whoever achieved this prodigy.
+Zé Palerma, upon learning of this, went to introduce himself, taking the goose and his entire entourage with him; When the princess saw the seven stuck together, running like fools after the goose, she burst into endless laughter.
+So Zé Palerma asked her to marry him, but the king didn't like that type of son-in-law; he presented him with a world of difficulties, saying that he would first have to bring him a man capable of drinking all the wine contained in the cellar full of barrels.
+Zé Palerma immediately remembered the little dwarf who would certainly come to his aid. He went to the forest, to the place where he had cut down the tree, and saw a man sitting there, with a disconsolate expression. Zé Palerma asked him what was bothering him so much and the man replied:
+- I have an immense thirst and I cannot drink; I can't stand pure water and I've already drunk a barrel full of wine; but what is a drop to a red-hot iron?
+- I will help you quench your thirst, - said Zé Palerma; - Come with me, you will have something to quench your thirst.
+He took him to the king's cellar and the man eagerly threw himself at the barrels and drank, he drank so much that his back hurt, and before the day was over he had finished all the wine in the cellar.
+Zé Palerma returned to the king, claiming his bride; but the king became angry at the thought that this fool would take his daughter to marry, and so he imposed new conditions. Before receiving the princess, he would have to bring her a man capable of eating a mountain of bread.
+Zé Palerma didn't hesitate; He immediately went to the forest and, in the same place, found a man who was tightening his belt with a strap and, in a bad mood, was muttering:
+- I ate a whole batch of bread, but what good is that with the hunger that devours me? My stomach remains empty and I have no choice but to tighten the belt more and more until I die.
+Very happy with that, Zé Palerma told him.
+- Come on, come with me, you'll have something to satisfy your hunger.
+He took him to the king's court; he had sent for
+all the wheat that existed in the kingdom to make a mountain of bread; but the man of the forest, placing himself in front of the immense mountain, began to eat, eat, eat, and, before the day was over, nothing was left, not even a crumb of all that bread.
+Zé Palerma asked for the princess' hand for the third time, but the king found another way out. He ordered a ship to be brought to him that could sail both on sea and on land.
+- If you appear to me in such a sailing ship, - said the king; - you will immediately have my daughter's hand.
+Zé Palerma ran towards the forest and found the old dwarf with whom he had shared the bread and wine; he said to him:
+- I ate and drank for you, now I will also give you the ship. I do this because you have been kind and compassionate to me.
+So he gave him the ship that sailed both by sea and land, and when the king saw it, he was forced to give him his daughter's hand.
+Shortly afterwards the wedding took place; and, later, after the king died, Zé Palerma inherited the throne and reigned for many years together with his wife, very happy and content
